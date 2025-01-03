@@ -8,7 +8,7 @@ Notes
 
 Dados ficiticios utilizados para a criação de projeto de gestão de dados.💰📊
 
-Acesse aqui o projeto:
+Acesse o projeto no arquivo caica.xlsx e faça o download, a dashboard está a vista.
 
 Especialista
 Fabíola Kian.
